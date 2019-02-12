@@ -1,0 +1,13 @@
+/home/rogi/Projects/Emulators/Chip8/src/main/java/computer/CPU.java
+/home/rogi/Projects/Emulators/Chip8/src/main/java/chip8/RestAPIController.java
+/home/rogi/Projects/Emulators/Chip8/src/main/java/chip8/WebSocketHandler.java
+/home/rogi/Projects/Emulators/Chip8/src/main/java/devices/Soundcard.java
+/home/rogi/Projects/Emulators/Chip8/src/main/java/devices/Monitor.java
+/home/rogi/Projects/Emulators/Chip8/src/main/java/computer/Memory.java
+/home/rogi/Projects/Emulators/Chip8/src/main/java/chip8/Application.java
+/home/rogi/Projects/Emulators/Chip8/src/main/java/chip8/WebSocketConfig.java
+/home/rogi/Projects/Emulators/Chip8/src/main/java/utils/GameMessage.java
+/home/rogi/Projects/Emulators/Chip8/src/main/java/computer/Computer.java
+/home/rogi/Projects/Emulators/Chip8/src/main/java/computer/GPU.java
+/home/rogi/Projects/Emulators/Chip8/src/main/java/devices/Keyboard.java
+/home/rogi/Projects/Emulators/Chip8/src/main/java/utils/StartMessage.java
